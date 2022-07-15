@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwin
 - 👀 I’m interested in Frontend and backend web developement
-- 🌱 I’m currently learning Vue Js
+- 🌱 I’m currently learning React
 - 📫 Hidearash@gmail.com
 
 <!---
