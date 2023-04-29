@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwin
 - 👀 I’m interested in Frontend and backend web developement
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 📫 Hidearash@gmail.com
 
 <!---
